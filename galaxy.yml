@@ -1,0 +1,20 @@
+namespace: agnosticd
+name: aro_workloads
+version: 1.0.0
+readme: README.md
+authors:
+- Andrew Jones <andrjone@redhat.com>
+description: ARO (Azure Red Hat OpenShift) specific workloads for AgnosticD v2
+license:
+- GPL-2.0-or-later
+license_file: ''
+tags:
+- cloud
+- azure
+- aro
+dependencies: {}
+repository: https://github.com/rhpds/aro_workloads
+documentation: https://github.com/rhpds/aro_workloads
+homepage: https://github.com/rhpds/aro_workloads
+issues: https://github.com/rhpds/aro_workloads/issues
+build_ignore: []
